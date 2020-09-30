@@ -1,5 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
-@import url("fontawesome-all.min.css");
+/* @import url("fontawesome-all.min.css"); */
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css");
+/*If you are ever missing a font awesome icon, update this url to the latest version*/
 
 /*
 	Overflow by HTML5 UP
