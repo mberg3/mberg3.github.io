@@ -1,3 +1,6 @@
 Remove website
 Remove thesis title
 Remove references email and phone
+
+If website is not updating go to https://mberg3.github.io/index.html and refresh the page
+Website should be up-to-date then.
