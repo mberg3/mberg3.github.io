@@ -1495,12 +1495,6 @@ input, select, textarea {
 			width: 100%;
 		}
 
-		.image.mab {
-			display: block;
-			width: 10px;
-			height: 10px;
-		}
-
 		.image.featured {
 			display: block;
 			width: 100%;
