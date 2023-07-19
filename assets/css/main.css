@@ -1497,8 +1497,8 @@ input, select, textarea {
 
 		.image.mab {
 			display: block;
-			width: 48px;
-			height: 48px;
+			width: 10px;
+			height: 10px;
 		}
 
 		.image.featured {
