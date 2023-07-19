@@ -1492,7 +1492,13 @@ input, select, textarea {
 
 		.image img {
 			display: block;
-			width: 10%;
+			width: 100%;
+		}
+
+		.image.mab {
+			display: block;
+			width: 48px;
+			height: 48px;
 		}
 
 		.image.featured {
