@@ -1,4 +1,4 @@
-Remove website
+Add "Updated DATE" in the header right
 Remove references email and phone
 
 If website is not updating go to https://mberg3.github.io/index.html and refresh the page
