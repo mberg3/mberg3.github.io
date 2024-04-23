@@ -1,4 +1,4 @@
-Add "Updated DATE" in the header right
+Add "Updated DATE" in the header right and Berg | 1 on the bottom. Mark different first page to do this.
 Remove references email and phone
 
 If website is not updating go to https://mberg3.github.io/index.html and refresh the page
